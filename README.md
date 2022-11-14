@@ -9,7 +9,7 @@ Le moteur graphique doit être capable plus tard de développer d'autre applicat
 - Nkentseu Simulator : Une Application de simulation 3D
 - etc...
 
-# Avancement actuel
+## Avancement actuel
 Pour l'instant le moteur va tourner avec :
 
 - SDL : API de fenêtrage par défaut qui va aussi nous permettre d'avoir une application multi plateforme plus tard
@@ -18,7 +18,7 @@ Pour l'instant le moteur va tourner avec :
 
 Il n'y aura pas pour l'instant une application pour DirectX bien que SDL2 supporte DirectX 12
 
-# Les plateformes cible
+## Les plateformes cible
 Pour l'instant les plateformes cible sont :
 
 - Windows
